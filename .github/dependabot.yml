@@ -4,7 +4,7 @@ updates:
     directories:
       - "/fixtures/*"
     schedule:
-      interval: "monthly"
+      interval: "mhly"
     open-pull-requests-limit: 0
     ignore:
       - dependency-name: "*"
